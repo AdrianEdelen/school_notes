@@ -2,8 +2,15 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: content/introduction/intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+ - file: content/math/math
+   sections:
+   - file: content/math/trigonometry/trigonometry
+     sections:
+     - file: content/math/trigonometry/trig_func
+# - file: content/markdown
+#   sections:
+#   - file: content/fileOne
+# - file: content/notebooks
+# - file: content/markdown-notebooks
