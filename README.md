@@ -16,6 +16,13 @@ If you'd like to develop and/or build the School Notes book, you should:
 
 A fully-rendered HTML version of the book will be built in `school_notes/_build/html/`.
 
+### changing the config
+If a change needs to be made to the _config.yml, the conf.py needs to be regenerated in order to continue using sphinx-autobuild
+`jupyter-book config sphinx school_notes/`
+
+### Autobuild with sphinx
+1. run `sphinx-autobuild school_notes/ school_notes/_build/html/`
+
 ### Hosting the book
 
 Please see the [Jupyter Book documentation](https://jupyterbook.org/publish/web.html) to discover options for deploying a book online using services such as GitHub, GitLab, or Netlify.

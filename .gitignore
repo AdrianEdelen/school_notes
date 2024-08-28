@@ -162,3 +162,4 @@ cython_debug/
 #.idea/
 mynewbook/_build/
 school_notes/_build/
+school_notes/content/math/trigonometry/media/
