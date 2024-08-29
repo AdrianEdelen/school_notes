@@ -16,3 +16,24 @@ $$
 \end{array}
 $$
 
+## Trigonometric Function Values and Angle Measures
+
+The unit circle is comprised of a collection of special angles and their respective trigonometric function values
+The values below are presented in degrees - (adrian add radians at some point)
+
+- $ 0\deg $
+- $ 45\deg $
+- $ 135\deg $
+- $ 225\deg $
+- $ 0\deg $
+- $ 0\deg $
+- $ 0\deg $
+- $ 0\deg $
+- $ 0\deg $
+- $ 0\deg $
+- $ 0\deg $
+
+
+
+
+
