@@ -9,6 +9,10 @@ parts:
       - file: content/math/math_intro
         sections:
         - file: content/math/basics/helpful_notes
+      - file: content/math/algebra/algebra
+        sections:
+        - file: content/math/algebra/definitions
+        - file: content/math/algebra/irrational_numbers
       - file: content/math/trigonometry/trigonometry
         sections:
         - file: content/math/trigonometry/trig_functions
