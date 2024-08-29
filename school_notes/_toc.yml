@@ -3,15 +3,19 @@
 
 format: jb-book
 root: content/introduction/intro
-chapters:
- - file: content/math/math
-   sections:
-   - file: content/math/trigonometry/trigonometry
-     sections:
-     - file: content/math/trigonometry/trig_func
-     - file: content/math/trigonometry/trig_identities
+parts:
+  - caption: Math
+    chapters:
+      - file: content/math/math_intro
+        sections:
+        - file: content/math/basics/helpful_notes
+      - file: content/math/trigonometry/trigonometry
+        sections:
+        - file: content/math/trigonometry/trig_functions
+        - file: content/math/trigonometry/trig_identities
+        - file: content/math/trigonometry/unit_circle
+
+
 # - file: content/markdown
-#   sections:
-#   - file: content/fileOne
 # - file: content/notebooks
 # - file: content/markdown-notebooks
