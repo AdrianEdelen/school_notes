@@ -23,3 +23,17 @@ $$
 Squaring a root is the same as removing the radical
 and multiplying 2 roots is the same as the multiply the radicands and then adding the root.
 ```
+
+### Reciprocal Irrationals
+
+
+you can simplify $ \frac{1}{\frac{x}{y}} $  by taking the fractions reciprocal
+
+
+
+$$
+
+\frac{1}{-\frac{8}{9}} = -\frac{9}{8}
+
+
+$$

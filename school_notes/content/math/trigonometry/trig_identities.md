@@ -7,7 +7,7 @@ The Trigonometric Identities are equalities that involve trigonometric functions
 $$ 
 \begin{array}{cc} 
 \Large \csc\theta = \frac{1}{\sin\theta} & \qquad & \Large \sec\theta = \frac{1}{\cos\theta} & \qquad & \Large \cot\theta = \frac{1}{\tan\theta} \\[1em]
-\Large \sin\theta = \frac{1}{\cos\theta} & \qquad & \Large \cos\theta = \frac{1}{\sec\theta} & \qquad & \Large \tan\theta = \frac{1}{\cot\theta} \\[1em]
+\Large \sin\theta = \frac{1}{\csc\theta} & \qquad & \Large \cos\theta = \frac{1}{\sec\theta} & \qquad & \Large \tan\theta = \frac{1}{\cot\theta} \\[1em]
 \end{array}
 $$
 
