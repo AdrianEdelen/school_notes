@@ -18,6 +18,10 @@ $$
 
 $$
 
+When rationalizing some tips to keep in mind are: \
+rationalizing a number with two roots e.g. $ \frac{\sqrt{3}}{\sqrt{67}} $ for the numerator, you just multiply the the radicands: $ 3*67 $ for a result of $ \frac{\sqrt{201}}{67} $
+
+
 ```{admonition} Remember!
 :class: tip
 Squaring a root is the same as removing the radical

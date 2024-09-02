@@ -15,6 +15,7 @@ parts:
         - file: content/math/algebra/irrational_numbers
       - file: content/math/trigonometry/trigonometry
         sections:
+        - file: content/math/trigonometry/special_right_triangles
         - file: content/math/trigonometry/trig_functions
         - file: content/math/trigonometry/trig_identities
         - file: content/math/trigonometry/unit_circle
