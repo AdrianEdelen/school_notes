@@ -12,3 +12,9 @@ this is to say the side opposte the of the 30 degree angle is 1 \
 the adjacent is is $ \sqrt{3} $ times longer than the opposite \ 
 and the hypetenuse is twice the opposite.
 
+### 45 - 45 - 90 Triangle
+
+The ratio for the 45/45/90 triangle is:
+
+$$ 1 : 1: \sqrt{2} $$
+
