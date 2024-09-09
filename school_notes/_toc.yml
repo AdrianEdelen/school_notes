@@ -12,15 +12,15 @@ parts:
       - file: content/math/algebra/algebra
         sections:
         - file: content/math/algebra/definitions
+        - file: content/math/algebra/fractions
+        - file: content/math/algebra/proportions
         - file: content/math/algebra/irrational_numbers
       - file: content/math/trigonometry/trigonometry
         sections:
+        - file: content/math/trigonometry/definitions
         - file: content/math/trigonometry/special_right_triangles
         - file: content/math/trigonometry/trig_functions
         - file: content/math/trigonometry/trig_identities
+        - file: content/math/trigonometry/radians
         - file: content/math/trigonometry/unit_circle
 
-
-# - file: content/markdown
-# - file: content/notebooks
-# - file: content/markdown-notebooks
