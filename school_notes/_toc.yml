@@ -15,6 +15,9 @@ parts:
         - file: content/math/algebra/fractions
         - file: content/math/algebra/proportions
         - file: content/math/algebra/irrational_numbers
+      - file: content/math/geometry/geometry
+        sections:
+        - file: content/math/geometry/definitions
       - file: content/math/trigonometry/trigonometry
         sections:
         - file: content/math/trigonometry/definitions
